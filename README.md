@@ -11,6 +11,7 @@ Growth mindset is the idea that, to be able to accomplish what you want, you onl
 1. If you have an issue, ask a question, the problem isn't unsolveable.
 2. Just because you have failed before doesn't mean you will fail the next time. Every time you fail, you get better.
 3. There are people who will be better than you. Instead of being jealous, figure out what got them to where they are.
+
 ## Markdown
 Go [here](markdown.md) to read info on markdown
 > Have a nice day!
