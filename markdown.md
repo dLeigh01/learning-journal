@@ -7,9 +7,9 @@ Two asterisks on either side for **bold**, one for *italics*, and brackets aroun
 
 However many hashtags you put determines the importance of the header tag
 
-You an also replace asterisks with underlines on italisized and bolded statements, or combine the two
+You an also replace asterisks with underlines on italicized and bolded statements, or combine the two
 
-Use asterisks as well to create unordered lists, or numbers to creat ordered lists
+Use asterisks as well to create unordered lists, or numbers to create ordered lists
 
 To link an image, you use the same syntax as a regular hyperlink, but with an exclamation mark preceding them.
 
