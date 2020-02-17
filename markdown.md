@@ -28,9 +28,10 @@ When you want to use syntax highlighting,
 
 If you want to creat a task list,
 
-[x] You use an x between brackets for a completed item
+- [x] You use an x between brackets for a completed item
+- [ ] And an empty pair of brackets for an incomplete item
 
-[ ] And an empty pair of brackets for an incomplete item
+With a hyphen ahead of them.
 
 If the task list is included in the first comment of an Issue, it will give you a progress indicator.
 
