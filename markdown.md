@@ -52,3 +52,5 @@ Any URL will automatically be converted into a clickable link.
 Any word surrounded by two tildes will be ~~crossed out~~
 
 You can also use emojis.
+
+[Back](https://dleigh01.github.io/learning-journal/)
