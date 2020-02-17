@@ -11,7 +11,7 @@ To link an image, you use the same syntax as a regular hyperlink, but with an ex
 >to create block quotes
 Use the outward-facing carrots surrounded by back-ticks to insert inline code
 
-##GitHub uses its own version of Markdown
+GitHub uses its own version of Markdown
 Some features of this form of Markdown are only available in specific parts of GitHub, though.
 When you want to use syntax highlighting, there are two different ways to go about it
 ```First, you can use three back-ticks on either side of the code```
