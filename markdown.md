@@ -13,10 +13,8 @@ Use the outward-facing carrots surrounded by back-ticks to insert inline code
 
 GitHub uses its own version of Markdown
 Some features of this form of Markdown are only available in specific parts of GitHub, though.
-When you want to use syntax highlighting, there are two different ways to go about it
-```First, you can use three back-ticks on either side of the code```
-        Second, you can just indent the code by four spaces
-Either of these methods will help the bit of code you are highlighting to stand out.
+When you want to use syntax highlighting,
+```You can use three back-ticks on either side of the code```
 
 If you want to creat a task list,
 [x] You use an x between brackets for a completed item
