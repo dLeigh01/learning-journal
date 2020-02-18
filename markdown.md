@@ -9,13 +9,23 @@ However many hashtags you put determines the importance of the header tag
 
 You an also replace asterisks with underlines on italicized and bolded statements, or combine the two
 
-Use asterisks as well to create unordered lists, or numbers to create ordered lists
+Use
+* asterisks
+- hyphens
++ or the plus sign
 
-To link an image, you use the same syntax as a regular hyperlink, but with an exclamation mark preceding them.
+ to create unordered lists, or
+ 1. numbers
+ 2. to create
+ 3. ordered
+ 4. lists
+ 1. The numbers don't have to be in order, it will automatically change to the next number in the sequence, regardless of what you put.
+
+To link an image, you use the same syntax as a regular hyperlink, but with an exclamation mark preceding it.
 
 >Use the little side-facing carrots
->at the start of each line
->to create block quotes
+at the start of each line
+to create block quotes
 
 Use the outward-facing carrots surrounded by back-ticks to insert inline code
 
@@ -52,5 +62,8 @@ Any URL will automatically be converted into a clickable link.
 Any word surrounded by two tildes will be ~~crossed out~~
 
 You can also use emojis.
+
+If you use two spaces, it will automatically give you a line space,  
+but that can also be achived just by putting an empty line between them.
 
 [Back](https://dleigh01.github.io/learning-journal/)
