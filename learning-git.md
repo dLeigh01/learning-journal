@@ -94,7 +94,7 @@ When you aren't ready to commit changes, but don't want them to be lost, tempora
 When you want to continue working with them, retrieve them with the command `git stash apply`
 ## Remote Repositories
 Teams can use remote repos -versions of a project residing online- to collaborate, push info, and pull data. You can work with multiple repos that can be assigned read/write or read-only privileges.
-### CLoned Repositories
+### Cloned Repositories
 For cloned repos, the server from which the clone was made will be named 'origin' and your branch will be called 'master.'
 ### Seeing Your Remotes
 You can view the names -like origin- of all specified remote handles next to their URLs with the command `git remote -v`
