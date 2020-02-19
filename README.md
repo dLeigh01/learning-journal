@@ -18,4 +18,7 @@ Go [here](learning-git.md) for more info on Git
 
 ## HTML
 Go [here](html.md) to learn about HTML.
+
+## CSS
+Go [here](css.md) for notes on CSS.
 > Have a nice day!
