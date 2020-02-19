@@ -12,4 +12,10 @@ Go [here](growth-mindset.md) to read more about growth mindset
 
 ## Markdown
 Go [here](markdown.md) to read info on markdown
+
+## Git
+Go [here](learning-git.md) for more info on Git
+
+## HTML
+Go [here](html.md) to learn about HTML.
 > Have a nice day!
