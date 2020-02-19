@@ -94,3 +94,5 @@ Teams can use remote repos -versions of a project residing online- to collaborat
 For cloned repos, the server from which the clone was made will be named 'origin' and your branch will be called 'master.'
 ### Seeing Your Remotes
 You can view the names -like origin- of all specified remote handles next to their URLs with the command `git remote -v`
+
+[back](README.md)
