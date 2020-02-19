@@ -80,4 +80,17 @@ To determine the state of files, use the command `git status`
 * All Files
     * Track all files using the command `git add *`  
 ### Committing a File
-After staging one or multiple files, the changes should be committed with a commit message using the command `git commit -m "/message explaining changes"`
+After staging one or multiple files, the changes should be committed with a commit message using the command `git commit -m "/message explaining changes/"`
+### Committing All Changes
+Commit a snapshot of all modifications to tracked files with the command `git commit -a`
+### Pushing Changes
+After committing, you push the changes to the remote origin repo from your local master branch using the command `git push origin master`
+### Stashing Changes
+When you aren't ready to commit changes, but don't want them to be lost, temporarily remove and hide the changes with the command `git stash`  
+When you want to continue working with them, retrieve them with the command `git stash apply`
+## Remote Repositories
+Teams can use remote repos -versions of a project residing online- to collaborate, push info, and pull data. You can work with multiple repos that can be assigned read/write or read-only privileges.
+### CLoned Repositories
+For cloned repos, the server from which the clone was made will be named 'origin' and your branch will be called 'master.'
+### Seeing Your Remotes
+You can view the names -like origin- of all specified remote handles next to their URLs with the command `git remote -v`
