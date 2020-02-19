@@ -23,7 +23,7 @@ The three main states of files:
 * Modified
     * File has been changed, but not committed.
 * Staged
-    * File is flagged to be committed.
+    * File is flagged to be committed.  
 ## History of Git
 Git began with the open source software, Linux kernel, when the devs began using the BitKeeper DVCS. In 2005, tensions between the dev team and the BitKeeper company lead to the cessation of their usage of BitKeeper and the beginning of the development of Git by the chief architect, Linus Torvalds.
 ## Customization
@@ -37,7 +37,7 @@ To check settings, use `git config --list`
 There are three ways to get info on any command
 * `git help /command/`
 * `git /command/ --help`
-* `man git-/command/`
+* `man git-/command/`  
 ## Setting up a Git Repository
 ### Importing
 To import an existing project into Git:
@@ -48,8 +48,8 @@ To import an existing project into Git:
     * `git add *.c`
     * `git add /license/`
     * `git commit -m "/message/"`  
-Now the files are being tracked and have an initial commit
-### CLoning
+Now the files are being tracked and have an initial commit  
+### Cloning
 You can create a copy of an existing repo by using the command `git clone /repo URL/`  
 Cloning creates a copy of all versions of all files in a project. It creates a directory with an initialized .git directory inside, containing all the copies. The command will also chek/retrieve the newest version of the project.  
 To create it with a chosen name rather than the default, use the command `git clone /repo URL/ /chosen name/`
@@ -61,24 +61,28 @@ The local Git repo has three components:
 * Index
     * The area used for staging
 * Head
-    * Point to the most recent commit  
+    * Point to the most recent commit
+
 ### Saving Changes
 All files in a checked out -working- copy of a file are either
 * Tracked
     * Can be modified, unmodified, or staged - most recent file snapshot
 * Untracked
     * Not in the last snapshot and do not reside in the staging area
+
 ### The Life Cycle of File Status
-1. Git flags files as modified after a change has been made since the last commit
-2. The modified file is staged
-3. The staged changed are committed
+* Git flags files as modified after a change has been made since the last commit
+* The modified file is staged
+* The staged changed are committed
+
 ### Check File Status
 To determine the state of files, use the command `git status`
 ### Tracking and Staging a New File
 * Single File
     * Track only one file using the command `git add /filename/`
 * All Files
-    * Track all files using the command `git add *`  
+    * Track all files using the command `git add *`
+    
 ### Committing a File
 After staging one or multiple files, the changes should be committed with a commit message using the command `git commit -m "/message explaining changes/"`
 ### Committing All Changes
