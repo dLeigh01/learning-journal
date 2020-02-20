@@ -21,4 +21,7 @@ Go [here](html.md) to learn about HTML.
 
 ## CSS
 Go [here](css.md) for notes on CSS.
+
+## JaveScript
+Go [here](javascript.md) to read more about JavaScript.
 > Have a nice day!
