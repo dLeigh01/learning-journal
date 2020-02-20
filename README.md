@@ -22,6 +22,9 @@ Go [here](html.md) to learn about HTML.
 ## CSS
 Go [here](css.md) for notes on CSS.
 
-## JaveScript
+## JavaScript
 Go [here](javascript.md) to read more about JavaScript.
+
+## How Computers Work
+Go [here](how-computers-work.md) to learn about how computers do what they do.
 > Have a nice day!
